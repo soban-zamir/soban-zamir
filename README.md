@@ -1,4 +1,4 @@
-Readme · MDCopy<h1 align="center">👋 Hi, I'm Soban </h1>
+<h1 align="center">👋 Hi, I'm Soban </h1>
 
 - 📖 Currently studying at NUST Islamabad
 
