@@ -1,12 +1,14 @@
 Readme · MDCopy<h1 align="center">👋 Hi, I'm Soban </h1>
 
+- 📖 Currently studying at NUST Islamabad
 
-📖 Currently studying at NUST Islamabad,
-⚡ Driven by a deep interest in RF & antenna engineering, fascinated by how the right design can transform modern wireless communication ヾ,
-✨ Hoping to contribute to the world of wireless through hands-on research and a bit of curiosity-driven tinkering ✿,
-🔭 Down to collaborate on pretty much anything cool! ╭( ๐_๐)╮,
+- ⚡ Driven by a deep interest in RF & antenna engineering, fascinated by how the right design can transform modern wireless communication ヾ
 
-Favourite Languages & Tools
+- ✨ Hoping to contribute to the world of wireless through hands-on research and a bit of curiosity-driven tinkering ✿
+
+- 🔭 Down to collaborate on pretty much anything cool! ╭( ๐_๐)╮
+
+**Tools I use**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB"/>
@@ -18,7 +20,7 @@ Favourite Languages & Tools
   <img src="https://img.shields.io/badge/ModelSim-0F9D58?style=for-the-badge&logoColor=white" alt="ModelSim"/>
 </p>
 
-Contact Details
+**Contact Details**
 <p align="left">
   <a href="mailto:sobanzamirm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
