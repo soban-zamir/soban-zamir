@@ -26,7 +26,7 @@ Readme · MDCopy<h1 align="center">👋 Hi, I'm Soban </h1>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
     <a href="https://soban-zamir.github.io">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website"/>
+  <img src="https://img.shields.io/badge/Website-2EA44F?style=for-the-badge&logoColor=white" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/sobanzamir/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
