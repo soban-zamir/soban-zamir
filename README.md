@@ -2,9 +2,9 @@ Readme · MDCopy<h1 align="center">👋 Hi, I'm Soban </h1>
 
 - 📖 Currently studying at NUST Islamabad
 
-- ⚡ Driven by a deep interest in RF & antenna engineering, fascinated by how the right design can transform modern wireless communication ヾ
+- ⚡ Driven by a deep interest in RF & antenna engineering, fascinated by how the right design can transform modern wireless communication 
 
-- ✨ Hoping to contribute to the world of wireless through hands-on research and a bit of curiosity-driven tinkering ✿
+- ✨ Hoping to contribute to the world of wireless through hands-on research and a bit of curiosity-driven tinkering 
 
 - 🔭 Down to collaborate on pretty much anything cool! ╭( ๐_๐)╮
 
