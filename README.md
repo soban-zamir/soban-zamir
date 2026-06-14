@@ -2,7 +2,7 @@
 
 - 📖 Currently studying at NUST Islamabad
 
-- ⚡ RF & Antenna Engineering; fascinated by how the right design can transform modern wireless communication 
+- ⚡ Antenna Design, RF & Microwave Engineering; fascinated by how the right design can transform modern wireless communication 
 
 - ✨ Hoping to contribute to the world of wireless through hands-on research and a bit of curiosity-driven tinkering 
 
