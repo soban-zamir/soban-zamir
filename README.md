@@ -12,7 +12,6 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/CST%20Microwave%20Studio-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CST Microwave Studio"/>
   <img src="https://img.shields.io/badge/CST%20Microwave%20Studio-CC0000?style=for-the-badge&logoColor=white" alt="CST Microwave Studio"/>
   <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
   <img src="https://img.shields.io/badge/AVR%20Studio-EC1C24?style=for-the-badge&logo=atmel&logoColor=white" alt="AVR Studio"/>
