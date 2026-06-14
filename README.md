@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/CST%20Microwave%20Studio-CC0000?style=for-the-badge&logoColor=white" alt="CST Microwave Studio"/>
   <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
   <img src="https://img.shields.io/badge/AVR%20Studio-EC1C24?style=for-the-badge&logo=atmel&logoColor=white" alt="AVR Studio"/>
-  <img src="https://img.shields.io/badge/Proteus-2D2D2D?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus (ISIS PROFESSIONAL)"/>
+  <img src="https://img.shields.io/badge/Proteus-2D2D2D?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus"/>
   <img src="https://img.shields.io/badge/PSpice-FF6600?style=for-the-badge&logoColor=white" alt="PSpice"/>
   <img src="https://img.shields.io/badge/ModelSim-0F9D58?style=for-the-badge&logoColor=white" alt="ModelSim"/>
 </p>
