@@ -12,7 +12,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-FF6600?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C++-FFB300?style=for-the-badge&logo=cplusplus&logoColor=black" alt="C++"/>
   <img src="https://img.shields.io/badge/CST%20Microwave%20Studio-CC0000?style=for-the-badge&logoColor=white" alt="CST Microwave Studio"/>
   <img src="https://img.shields.io/badge/Proteus-2D2D2D?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus"/>
   <img src="https://img.shields.io/badge/PSpice-FF6600?style=for-the-badge&logoColor=white" alt="PSpice"/>
