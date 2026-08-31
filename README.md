@@ -1,3 +1,32 @@
+# 👋 Hi, I'm Muhammad Soban Zamir
+
+**Antenna Design · RF & Microwave Engineering · Machine Learning for EM Design**
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msz.paf@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soban-zamir)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soban-zamir)
+
+---
+
+## 🎓 Education
+
+> 🏛️ **National University of Sciences & Technology (NUST)** — Islamabad, Pakistan
+> 📜 **B.E. Electrical Engineering** · Sep 2024 – Present
+> 📡 **Specialization:** Antenna Design, RF & Microwave Engineering
+> 📊 **CGPA:** 3.63 / 4.00
+
+---
+
+## 🛠️ What I Do
+
+- 📡 Miniaturized antenna design in CST
+- 🤖 ML-based surrogate modelling & inverse design of antennas
+- 🫀 Implantable & biotelemetry antennas
+- 🩻 CNN and transformer models for biomedical imaging
+- 📝 Writing up results for IEEE submissions
+
+---
+
 ## 🧰 Tools
 
 **Simulation & EDA**
