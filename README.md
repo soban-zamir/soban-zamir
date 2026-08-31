@@ -16,8 +16,8 @@
 
 <br>
 
-* 🏛️ **Pursuing a Bachelors at the National University of Sciences & Technology (NUST), Islamabad, Pakistan**
-* 📜 **Specializing in Antenna Design, RF & Microwave Engineering**
+🏛️ **Pursuing a Bachelors at the National University of Sciences & Technology (NUST), Islamabad, Pakistan**
+📜 **Specializing in Antenna Design, RF & Microwave Engineering**
 
 
 <br>
