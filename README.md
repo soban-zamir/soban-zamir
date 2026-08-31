@@ -14,13 +14,12 @@
   </a>
 </p>
 
-* 🏛️ **National University of Sciences & Technology (NUST)**
-* 📜 **Bachelor of Electrical Engineering**
+* 🏛️ ** Bachelor of Electrical Engineering @ National University of Sciences & Technology (NUST)**
 * 📡 **Specialization:** Antenna Design, RF & Microwave Engineering
 
 ## 🛠️ What I Do
 
-* 📡 Miniaturized antenna design in CST
+* 📡 Miniaturized Antenna Design
 * 🤖 ML-based surrogate modelling & inverse design of antennas
 
 ## 🧰 Tools
