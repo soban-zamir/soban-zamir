@@ -9,8 +9,8 @@
 
 
 - 🏛️ **National University of Sciences & Technology (NUST)**
--📜 **Bachelor of Electrical Engineering**
--📡 **Specialization:** Antenna Design, RF & Microwave Engineering
+- 📜 **Bachelor of Electrical Engineering**
+- 📡 **Specialization:** Antenna Design, RF & Microwave Engineering
 
 
 🛠️ What I Do
