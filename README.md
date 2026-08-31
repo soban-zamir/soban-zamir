@@ -54,3 +54,9 @@
     <td align="center"><b>Proteus Suite</b></td>
   </tr>
 </table>
+
+<br>
+
+<h1>🏛️ Affiliations</h1>
+
+* **Research Institute for Microwave & Millimeter-wave Studies**
