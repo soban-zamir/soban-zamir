@@ -2,15 +2,15 @@
 
 <p align="center">
   <a href="mailto:msz.paf@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/soban-zamir">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/soban-zamir">
-    <img src="https://skillicons.dev/icons?i=github" height="42" />
+    <img src="https://skillicons.dev/icons?i=github" height="55" />
   </a>
 </p>
 
