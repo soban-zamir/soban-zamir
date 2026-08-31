@@ -1,4 +1,6 @@
-<h0 align="center">Hey there, I'm Soban👋</h1>
+<p align="center">
+  <font size="7"><b>Hey there, I'm Soban 👋</b></font>
+</p>
 
 <p align="center">
   <a href="mailto:msz.paf@gmail.com">
