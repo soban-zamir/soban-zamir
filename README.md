@@ -18,7 +18,7 @@
 
 <h3>🎓 National University of Sciences & Technology (NUST), Islamabad, Pakistan</h3>
 <h3>📜 Bachelor of Electrical Engineering</h3>
-<h3>🔬 Specializion: Antenna Design, RF & Microwave Engineering</h3>
+<h3>🔬 **Specializion:** Antenna Design, RF & Microwave Engineering</h3>
 
 <br>
 
