@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Soban Zamir
+# 👋 Hi, I'm Soban
 
 **Antenna Design · RF & Microwave Engineering · Machine Learning for EM Design**
 
