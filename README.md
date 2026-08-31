@@ -40,7 +40,7 @@
       <img src="https://skillicons.dev/icons?i=visualstudio" height="65" />
     </td>
     <td align="center" width="180" height="100">
-      <img src="https://img.shields.io/badge/CST-005B96?style=for-the-badge&logoColor=white" height="55" />
+      <img src="https://img.shields.io/badge/CST_MW_STUDIO-005B96?style=for-the-badge&logoColor=white" height="55" />
     </td>
   </tr>
   <tr>
