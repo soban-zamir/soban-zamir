@@ -22,13 +22,6 @@
 
 <br>
 
-<h2>🛠️ What I Do</h2>
-
-* 📡 Miniaturized antenna design in CST
-* 🤖 ML-based surrogate modelling & inverse design of antennas
-
-<br>
-
 <h2>🧰 Tools</h2>
 
 <table align="center">
