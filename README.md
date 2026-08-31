@@ -26,25 +26,31 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="180" height="100">
+    <td align="center" width="180">
       <img src="https://skillicons.dev/icons?i=matlab" height="65" />
     </td>
-    <td align="center" width="180" height="100">
+    <td align="center" width="180">
       <img src="https://skillicons.dev/icons?i=visualstudio" height="65" />
     </td>
-    <td align="center" width="180" height="100">
-      <img src="https://img.shields.io/badge/CST_MW_STUDIO-005B96?style=for-the-badge&logoColor=white" height="55" />
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/CST-005B96?style=for-the-badge&logoColor=white" height="55" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Keysight_ADS-E4002B?style=for-the-badge&logoColor=white" height="55" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/OrCAD_PSpice-00843D?style=for-the-badge&logoColor=white" height="55" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Proteus-1D3E6E?style=for-the-badge&logoColor=white" height="55" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="180" height="100">
-      <img src="https://img.shields.io/badge/Keysight_ADS-E4002B?style=for-the-badge&logoColor=white" height="55" />
-    </td>
-    <td align="center" width="180" height="100">
-      <img src="https://img.shields.io/badge/OrCAD_PSpice-00843D?style=for-the-badge&logoColor=white" height="55" />
-    </td>
-    <td align="center" width="180" height="100">
-      <img src="https://img.shields.io/badge/Proteus-1D3E6E?style=for-the-badge&logoColor=white" height="55" />
-    </td>
+    <td align="center"><b>MATLAB</b></td>
+    <td align="center"><b>Visual Studio</b></td>
+    <td align="center"><b>CST Microwave Studio</b></td>
+    <td align="center"><b>Keysight ADS</b></td>
+    <td align="center"><b>OrCAD PSpice</b></td>
+    <td align="center"><b>Proteus Suite</b></td>
   </tr>
 </table>
