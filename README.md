@@ -6,18 +6,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soban-zamir)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soban-zamir)
 
-## 🎓 Education
 
-> 🏛️ **National University of Sciences & Technology (NUST)**
-> 📜 **Bachelor of Electrical Engineering**
-> 📡 **Specialization:** Antenna Design, RF & Microwave Engineering
 
-## 🛠️ What I Do
+- 🏛️ **National University of Sciences & Technology (NUST)**
+-📜 **Bachelor of Electrical Engineering**
+-📡 **Specialization:** Antenna Design, RF & Microwave Engineering
+
+
+🛠️ What I Do
 
 - 📡 Miniaturized antenna design in CST
 - 🤖 ML-based surrogate modelling & inverse design of antennas
 
-## 🧰 Tools
+🧰 Tools
 
 [![Tools](https://skillicons.dev/icons?i=matlab,visualstudio)](https://skillicons.dev)
 
