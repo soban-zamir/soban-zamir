@@ -16,7 +16,7 @@
 
 <br>
 
-<h3>🏛️ Pursuing a Bachelors at the National University of Sciences & Technology (NUST), Islamabad, Pakistan</h3>
+<h3>🏛️ Bachelor's Student at the National University of Sciences & Technology (NUST), Islamabad, Pakistan</h3>
 
 <h3>📜 Specializing in Antenna Design, RF & Microwave Engineering</h3>
 
