@@ -14,7 +14,7 @@
   </a>
 </p>
 
-* 🏛️ ** Bachelor of Electrical Engineering @ National University of Sciences & Technology (NUST)**
+* 🏛️ **Bachelor of Electrical Engineering @ National University of Sciences & Technology (NUST)**
 * 📡 **Specialization:** Antenna Design, RF & Microwave Engineering
 
 ## 🛠️ What I Do
